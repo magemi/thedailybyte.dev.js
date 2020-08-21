@@ -1,0 +1,19 @@
+{
+  "name": "thedailybyte.dev.js",
+  "version": "1.0.0",
+  "description": "Solutions to thedailybyte.dev problems written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magemi/thedailybyte.dev.js.git"
+  },
+  "author": "Mason Miller <magemi@pm.me> (https://magemi.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magemi/thedailybyte.dev.js/issues"
+  },
+  "homepage": "https://github.com/magemi/thedailybyte.dev.js#readme"
+}
