@@ -2,9 +2,8 @@
   "name": "thedailybyte.dev.js",
   "version": "1.0.0",
   "description": "Solutions to thedailybyte.dev problems written in JavaScript.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/magemi/thedailybyte.dev.js/issues"
   },
-  "homepage": "https://github.com/magemi/thedailybyte.dev.js#readme"
+  "homepage": "https://github.com/magemi/thedailybyte.dev.js#readme",
+  "devDependencies": {
+    "jest": "^26.4.1"
+  }
 }
