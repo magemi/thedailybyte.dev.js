@@ -40,5 +40,4 @@ function isAlphaNumeric(char) {
 
     return char.match(/^\w+$/)
 }
-
 module.exports = isValidPalindrome
